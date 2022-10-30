@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
 **Privacy Policy**
 
 Qur Mal built the XsOs app as a Free app. This SERVICE is provided by Qur Mal at no cost and is intended for use as is.
